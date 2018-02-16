@@ -1,8 +1,3 @@
-# README #
-
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-This is repository for OpenCv project, it recognises
-schapes and colours of lego bricks in the pictures provided
+#Open Cv project 
+This is a project, which I developed during my studies when,
+I was participating in Visual Systems Science Club.
